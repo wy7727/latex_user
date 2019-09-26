@@ -17,3 +17,6 @@
 \end{document}
 
 ---
+### 论文编辑
+- git clone https://github.com/TingliangZhang/XeLatexTemplate-ztl (下载模板)
+- 在texmaker上打开配置-命令-xelatex框中加入--shell-escape　如图
