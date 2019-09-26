@@ -4,6 +4,7 @@
 - sudo apt-get install texlive-xetex （为了使用xelatex）
 - sudo apt-get install latex-cjk-all  (为了使用xeCJK输出中文pdf)
 - 修改texmaker使用xelatex编译
+- 下面是例程
 ---
 \documentclass{article}
 
@@ -14,4 +15,5 @@
 爱你，森森
 
 \end{document}
+
 ---
