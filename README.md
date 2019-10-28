@@ -47,3 +47,6 @@
 \item[-] good morning....
 
 \end{itemize}
+
+#### 错误
+- ! Undefined control sequence.一般是缺少相应的package
