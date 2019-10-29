@@ -48,5 +48,12 @@
 
 \end{itemize}
 
+#### 公式
+- \begin{equation}
+r_K(X_i,Y_i) \triangleq \dfrac{\sum\limits^n_{i=1}\sum\limits^n_{j=1} sgn\left( X_i-X_j\right) sgn\left( Y_i-Ｙ_j\right)}{n\left(n-1\right)} 
+\end{equation}
+- 公式编号
+- $$公式行间$$
+- $公式嵌入$
 #### 错误
 - ! Undefined control sequence.一般是缺少相应的package
