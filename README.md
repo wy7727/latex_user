@@ -57,3 +57,9 @@ r_K(X_i,Y_i) \triangleq \dfrac{\sum\limits^n_{i=1}\sum\limits^n_{j=1} sgn\left( 
 - $公式嵌入$
 #### 错误
 - ! Undefined control sequence.一般是缺少相应的package
+
+##### 表格
+表格格式设置
+- https://blog.csdn.net/cskywit/article/details/86693184
+表格居中
+- https://www.jianshu.com/p/51c62ff114cc
